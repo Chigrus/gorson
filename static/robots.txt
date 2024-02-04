@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
-Sitemap: https://verstache.ru/sitemap.xml
-host: verstache.ru
+Sitemap: https://gorson.ru/sitemap.xml
+host: gorson.ru
